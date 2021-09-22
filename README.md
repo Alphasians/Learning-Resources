@@ -8,7 +8,7 @@ Do follow the Code Of Conduct first.Then Fork the repo, check the folder if you 
 
 We have:
 
-1. Frontend
-2. Backend
-3. AI/ML
-4. Database
+1. [Frontend]
+2. [Backend]
+3. [AI/ML]
+4. [Database]
