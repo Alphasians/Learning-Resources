@@ -4,7 +4,9 @@ This repo contains Files,Docs,Books,Video links etc... all the thinks you need t
 
 # Want to Contribute
 
-Do follow the Code Of Conduct first.Then Fork the repo, check the folder if you have something new to add create the folder or choose from the current resources and contribute to them! 
+- Do follow the Code Of Conduct first.
+- Then Fork the repo, check the folder if you have something new to add create the folder or choose from the current resources 
+- Contribute to them! 
 
 We have:
 
