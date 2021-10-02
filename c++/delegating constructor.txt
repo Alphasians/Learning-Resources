@@ -1,0 +1,32 @@
+#include<iostream>
+#include<stdio.h>
+#include<iomanip>
+using namespace std;
+class player
+{
+ string name ;
+ int health,xp;
+ public:
+ player();
+ player(string name_val);
+ player(string name_val,int xp_val,int health_val);
+};
+player::player():player{"None",0,0}
+{
+    cout<<"\n NO args constructor called";
+}
+player::player(string name_val):player{name_val,0,0}
+{
+    cout<<"\n1 args contructor called\n";
+}
+player::player(string name_val,int xp_val,int health_val):name{name_val},xp{xp_val},health{health_val}
+{
+    cout<<"3-Args contructor";
+}
+int main()
+{
+    player chicha;
+    player frank{"frank"};
+    player villain{"waqquas",100,100};
+    return 0;
+}
