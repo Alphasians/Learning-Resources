@@ -1,0 +1,39 @@
+> SEMI COLON IS IMPORTANT
+
+## To start the SQL server
+
+1. psql -U postgres -h localhost
+2. Enter the password
+
+## Create a new User for Database
+
+1. CREATE USER <user_name> WITH PASSWORD  <'password'>
+
+## Create a new User for Database and grant all privilegs
+
+1. CREATE DATABASE <database name>
+2. GRANT ALL PRIVILAGES ON DATABASE <database name> to <user_name>
+
+## Basic Commands
+
+1.  /l → Lists all Databases
+2. DROP → { DROP DATABASE <database_name> } → Deletes the database
+3. \c →  { \c <database_name> } Connect the database
+
+## Table operations
+
+1. CREATE TABLE  <table_name> ( 
+- <column_name -1> <Type> <primary key , not null etc> ,
+
+    ID INT NOT NULL , 
+
+    NAME CHAR[50],
+
+    AGE INT,
+
+    ADDRESS TEXT
+
+     );
+
+1. \d → Lists all tables within a database
+2. \d <table_name> → description of entire table
