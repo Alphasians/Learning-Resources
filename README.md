@@ -1,3 +1,4 @@
+<!--
 ![Hacktoberfest 2021](https://hacktoberfest.digitalocean.com/twitter-card.png)
 
 [![Fork](https://img.shields.io/github/forks/letskhabar/HacktoberFest-2020?label=fork&style=social)](https://github.com/Alphasians/Learning-Resources/fork)
@@ -11,7 +12,7 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 Use this project to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
 
 Celebrate [Hacktoberfest](https://hacktoberfest.digitalocean.com/) by getting involved in the open source community by completing some simple tasks in this project.
-
+-->
 # Resources
 
 This repo contains Files,Docs,Books,Video links etc... all the thinks you need to know or get started with hackathon, development etc.
